@@ -1,0 +1,48 @@
+{
+    "name": "dreamings-inspiration-cards",
+    "title": "Dreaming's Inspiration Cards",
+    "description": "An alternative I made for inspiration, with the use of cards that can be drawn.",
+    "version": "1.0.0",
+    "author": "DreamingHero",
+    "minimumCoreVersion": "10",
+    "compatibleCoreVersion": "10",
+    "compatibility": {
+        "minimum": "10.283",
+        "verified": "10"
+    },
+    "system": "dnd5e",
+    "relationships": {
+        "systems": [
+            {
+                "id": "dnd5e",
+                "manifest": "https://raw.githubusercontent.com/foundryvtt/dnd5e/master/system.json",
+                "compatibility": {
+                    "minimum": "2.0.0",
+                    "verified": "2.0"
+                }
+            }
+        ]
+    },
+    "packs": [
+        {
+            "name": "dreamings-inspiration-cards",
+            "label": "Dreaming's Inspiration Cards",
+            "path": "./packs/dreamings-inspiration-cards.db",
+            "entity": "Item"
+        },
+        {
+            "name": "dreamings-inspiration-cards-rules",
+            "label": "Dreaming's Inspiration Cards Rules",
+            "path": "./packs/dreamings-inspiration-cards-rules.db",
+            "entity": "JournalEntry"
+        },
+        {
+            "name": "dreamings-inspiration-cards-rolltable",
+            "label": "Dreaming's Inspiration Cards Rolltable",
+            "path": "./packs/dreamings-inspiration-cards-rolltable",
+            "entity": "RollTable"
+        }
+    ],
+    "manifest": "",
+    "download": ""
+  }
