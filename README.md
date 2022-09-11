@@ -41,6 +41,8 @@
 <p>Cards that state "On your next roll" can be used just before rolling to.</p>
 <p>If the DM desires it they can change cards to have an action cost or be limited but I do not recommend it.</p>
 <p>After all players already have so many things they need to use their actions on and these cards should be true rewards and feel like it.</p>
+<h4><strong>Target Cards</strong></h4>
+<p>Some cards have you select a target or respond to a target, in order to use such a card you must be able to see the target, if a card doesn't mention a range it means you just have to see the target in order to use the card.</p>
 <h3><strong>Discarding</strong></h3>
 <p>Cards can be discarded from your hand at any time, some cards have special effects if discarded from your hand.</p>
 <h3><strong>Drawing</strong></h3>
@@ -52,6 +54,8 @@
     <li>When the session begins if the players have written or updated their notes since the last session. (Draw 2, choose 1)</li>
     <li>When players have some fun talks at the beginning of a session or re-cap the first session together, this is always fun imo. (Draw 3, choose 1)</li>
     <li>When players engage in great roleplay or do something else equally awesome. (Draw 3, choose 1)</li>
+    <li>When a player has paid proper attention to the game and doesn't distract themselves with other activities. (Draw 2, choose 1)</li>
+    <li>When a player has been planning their turn, at the least before the combatant in front of them in initiative, this allows combat to be faster and smoother. (Draw 2, choose 1)</li>
     <li>When players defeat a tough creature. (Draw 1)</li>
     <li>When players defeat a miniboss. (Draw 3 choose 1)</li>
     <li>When players defeat a boss (Draw 5 choose 2)</li>
@@ -73,3 +77,5 @@
 <h3><strong>Trading</strong></h3>
 <p>Cards can be traded with the requirement that both parties trade an equal amount of cards to eachother.</p>
 <p>These cards are rewards so gifting them to another player goes against the intention.</p>
+<h3><strong>Optional Rule: DM Draw</strong></h3>
+<p>If the DM judges the players to have bad behaviour the DM can exclaim to the players that they will draw cards, this can alert the players to their behaviour and allows the DM to potentially upset the balance with cards of their own. The DM can the same amount of cards a player can, a DM can choose to hide the result of their roll.</p>
