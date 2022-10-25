@@ -1,23 +1,11 @@
 {
-  "id": "inspiration-cards",
   "title": "Revised Inspiration Cards",
   "description": "An alternative DreamingHero1997 made for inspiration, with the use of cards that can be drawn.",
-    "authors": [{
-	"name": "willmatthews86",
-	}],
-  "url": "https://github.com/willmatthews86/Dreaming-s-Inspiration-Cards"
-  "version": "2.2",
-    "compatibility": {
-      "minimum": "10",
-      "verified": "10.284"
-      "maximum": "10"
-    },
-  "scripts": [],
-  "esmodules": [
-    "main.js"
-  ],
-  "styles": [
-    "style.css"
+  "version": "2.5",
+  "authors": [
+    {
+      "name": "willmatthews86"
+    }
   ],
   "languages": [
     {
@@ -25,35 +13,39 @@
       "name": "English",
       "path": "lang/en.json"
     }
+  ],
+  "url": "https://github.com/willmatthews86/Dreaming-s-Inspiration-Cards"
   "packs": [
     {
       "name": "dreamings-inspiration-cards",
       "label": "Dreaming's Inspiration Cards",
       "path": "packs/dreamings-inspiration-cards.db",
       "type": "Item",
-      "private": false,
-      "system": "dnd5e",
-      "flags": {}
+      "private": false
     },
     {
       "name": "dreamings-inspiration-cards-rules",
       "label": "Dreaming's Inspiration Cards Rules",
       "path": "packs/dreamings-inspiration-cards-rules.db",
       "type": "JournalEntry",
-      "private": false,
-      "flags": {}
+      "private": false
     },
     {
       "name": "dreamings-inspiration-cards-rolltable",
       "label": "Dreaming's Inspiration Cards Rolltable",
       "path": "packs/dreamings-inspiration-cards-rolltable",
       "type": "RollTable",
-      "private": false,
-      "flags": {}
+      "private": false
     }
   ],
-  "system": [],
-  "relationships": [],
-  "manifest": "https://raw.githubusercontent.com/willmatthews86/Dreaming-s-Inspiration-Cards/main/module.json",
-  "download": "https://github.com/willmatthews86/Dreaming-s-Inspiration-Cards/archive/refs/tags/TEST.zip",
+  "url": "https://github.com/willmatthews86/Dreaming-s-Inspiration-Cards",
+  "manifest": "https://github.com/willmatthews86/Dreaming-s-Inspiration-Cards/releases/latest/download/module.json",
+  "download": "https://github.com/willmatthews86/Dreaming-s-Inspiration-Cards/releases/download/TEST.zip",
+  "name": "inspiration-cards",
+  "id": "inspiration-cards",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  },
+  "minimumCoreVersion": "10"
 }
